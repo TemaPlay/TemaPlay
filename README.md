@@ -1,4 +1,4 @@
-👋 Hi, I'm @TemaPlay
+👋 Hi, I'm @temaplay
 
 - 👀 I'm interested in programming
 
